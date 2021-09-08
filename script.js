@@ -1,3 +1,4 @@
+// Login waardes check
 function login()
 	{
 		var uname = document.getElementById("email").value;
@@ -25,4 +26,8 @@ function login()
   
 }
     }
+// Pagina opschonen na refresh
+	window.onload = function() {
+		document.getElementById('input_field').value = '';
+		}
 	
