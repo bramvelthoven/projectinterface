@@ -5,11 +5,11 @@ function login()
 		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 		if(uname =='')
 		{
-			alert("Voer gebruiksernaam in.");
+			alert("Voer een geldige gebruiksernaam in.");
 		}
 		else if(pwd=='')
 		{
-        	alert("Voer wachtwoord in.");
+        	alert("Voer een geldig wachtwoord in.");
 		}
 		else if(!filter.test(uname))
 		{
