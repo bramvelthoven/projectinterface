@@ -1,0 +1,8 @@
+Lijst van elementen die ik wil verwerken in de pagina:
+
+- Email INPUT
+- Wachtwoord INPUT
+- Aanmelden KNOP
+- Wachtwoord vergeten LINK (niet functioneel)
+- Nog geen account LINK
+
